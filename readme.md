@@ -40,5 +40,4 @@ index-name.\*为elk-\* -> Create index pattern
 
 ### 后记
 
-可以在其中添加kafka以及filebeat来稳定日志输出  
-参考[ELK搭建实时日志分析平台](https://www.evernote.com/l/AcsFNDOL0jFH8Ynwse5JesfOQztJJ4Mf72Y/)
+可以在其中添加kafka以及filebeat来稳定日志输出
