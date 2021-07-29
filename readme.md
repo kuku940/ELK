@@ -18,7 +18,7 @@ Logstash再把日志转发给Elasticsearch；
 `C:\data\logstash`路径下
 
 运行[docker-compose.yml](./src/main/resources/docker-compose.yml)文件
-> docker-compose up -a
+> docker-compose up -d
 
 运行完成后，访问[ES](http://192.168.2.139:9200/)和[Kibana](http://192.168.2.139:5601/)
 
